@@ -57,7 +57,7 @@ const Header = () => {
         
       </div>
       
-      {/* <Geolocation /> */}
+      <Geolocation />
      
       <div>
      
